@@ -295,7 +295,46 @@
 		<!--Book of Revelations-->
 		<Item Id="78" Weight="2" DecreaseBy="2" RemoveOn="0.1"/>
 	</Pool>
-	<Pool Name="boss"/>
+	<Pool Name="boss">
+		<!--Lunch-->
+		<Item Id="22" Weight="3" DecreaseBy="3" RemoveOn="0.1"/>
+		<!--Dinner-->
+		<Item Id="23" Weight="3" DecreaseBy="3" RemoveOn="0.1"/>
+		<!--Breakfast-->
+		<Item Id="25" Weight="3" DecreaseBy="3" RemoveOn="0.1"/>
+		<!--Rotten Meat-->
+		<Item Id="26" Weight="3" DecreaseBy="3" RemoveOn="0.1"/>
+		<!--Wooden Spoon-->
+		<Item Id="27" Weight="3" DecreaseBy="3" RemoveOn="0.1"/>
+		<!--Moms Underwear-->
+		<Item Id="29" Weight="3" DecreaseBy="3" RemoveOn="0.1"/>
+		<!--Moms Heels-->
+		<Item Id="30" Weight="3" DecreaseBy="3" RemoveOn="0.1"/>
+		<!--Wire Coat hanger!-->
+		<Item Id="32" Weight="3" DecreaseBy="3" RemoveOn="0.1"/>
+		<!--Pentagram-->
+		<Item Id="51" Weight="3" DecreaseBy="3" RemoveOn="0.1"/>
+		<!--Pageant Boy-->
+		<Item Id="141" Weight="3" DecreaseBy="3" RemoveOn="0.1"/>
+		<!--Cat-o-nine-tails-->
+		<Item Id="165" Weight="3" DecreaseBy="3" RemoveOn="0.1"/>
+		<!--Stem cells-->
+		<Item Id="176" Weight="3" DecreaseBy="3" RemoveOn="0.1"/>
+		<!--MEAT!-->
+		<Item Id="193" Weight="3" DecreaseBy="3" RemoveOn="0.1"/>
+		<!--Magic 8 ball-->
+		<Item Id="194" Weight="3" DecreaseBy="3" RemoveOn="0.1"/>
+		<!--Moms coin purse-->
+		<Item Id="195" Weight="3" DecreaseBy="3" RemoveOn="0.1"/>
+		<!--Squeezy-->
+		<Item Id="196" Weight="3" DecreaseBy="3" RemoveOn="0.1"/>
+		<!--Jesus Juice-->
+		<Item Id="197" Weight="3" DecreaseBy="3" RemoveOn="0.1"/>
+		<!--BOX-->
+		<Item Id="198" Weight="3" DecreaseBy="3" RemoveOn="0.1"/>
+		<!--Super Bandage-->
+		<Item Id="92" Weight="2" DecreaseBy="2" RemoveOn="0.1"/>
+	</Pool>
 	<Pool Name="devil"/>
 	<Pool Name="angel"/>
 	<Pool Name="secret"/>
