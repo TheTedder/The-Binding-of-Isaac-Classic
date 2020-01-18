@@ -503,25 +503,13 @@
 	</Pool>
 	<Pool Name="redChest">
 		<!--Dead Cat-->
-		<Item Id="81" Weight="1" DecreaseBy="0.4" RemoveOn="0.1"/>
+		<Item Id="81" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
 		<!--Guppy's Paw-->
-		<Item Id="133" Weight="1" DecreaseBy="0.4" RemoveOn="0.1"/>
+		<Item Id="133" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
 		<!--Guppy's Tail-->
-		<Item Id="134" Weight="1" DecreaseBy="0.4" RemoveOn="0.1"/>
-		<!--Bobs Curse-->
-		<Item Id="140" Weight="1" DecreaseBy="0.4" RemoveOn="0.1"/>
+		<Item Id="134" Weight="2" DecreaseBy="1" RemoveOn="0.1"/>
 		<!--Guppy's Head-->
-		<Item Id="145" Weight="1" DecreaseBy="0.4" RemoveOn="0.1"/>
-		<!--Guppy's Collar-->
-		<Item Id="212" Weight="1" DecreaseBy="0.4" RemoveOn="0.1"/>
-		<!--Blue Box-->
-		<Item Id="297" Weight="1" DecreaseBy="0.4" RemoveOn="0.1"/>
-		<!--Cursed Eye-->
-		<Item Id="316" Weight="1" DecreaseBy="0.4" RemoveOn="0.1"/>
-		<!--Curse of the tower-->
-		<Item Id="371" Weight="1" DecreaseBy="0.4" RemoveOn="0.1"/>
-		<!--Plan C-->
-		<Item Id="475" Weight="0.2" DecreaseBy="0.08" RemoveOn="0.02"/>
+		<Item Id="145" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
 	</Pool>
 	<Pool Name="beggar">
 		<!--The Compass-->
