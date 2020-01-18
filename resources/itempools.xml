@@ -419,7 +419,32 @@
 		<!--Guardian Angel-->
 		<Item Id="112" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
 	</Pool>
-	<Pool Name="secret"/>
+	<Pool Name="secret">
+		<!--1up!-->
+		<Item Id="11" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<!--Raw Liver-->
+		<Item Id="16" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<!--Bob's Rotten Head-->
+		<Item Id="42" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<!--My little Unicorn-->
+		<Item Id="77" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<!--Ank-->
+		<Item Id="161" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<!--Pyro-->
+		<Item Id="190" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<!--Dad's Key-->
+		<Item Id="175" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<!--Epic Fetus-->
+		<Item Id="168" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<!--We need to go deeper!-->
+		<Item Id="84" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<!--The Book of Belial-->
+		<Item Id="34" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<!--Transcendence-->
+		<Item Id="20" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<!--Spider Bite-->
+		<Item Id="89" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+	</Pool>
 	<Pool Name="library">
 		<!--The Bible-->
 		<Item Id="33" Weight="1" DecreaseBy="0.1" RemoveOn="0.1"/>
