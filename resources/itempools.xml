@@ -397,7 +397,28 @@
 		<!--Monster Manual-->
 		<Item Id="123" Weight="30" DecreaseBy="30" RemoveOn="0.1"/>
 	</Pool>
-	<Pool Name="angel"/>
+	<Pool Name="angel">
+		<!--Blood of the Martyr-->
+		<Item Id="7" Weight="4" DecreaseBy="0" RemoveOn="0.1"/>
+		<!--The Bible-->
+		<Item Id="33" Weight="4" DecreaseBy="0" RemoveOn="0.1"/>
+		<!--Prayer Card-->
+		<Item Id="146" Weight="4" DecreaseBy="0" RemoveOn="0.1"/>
+		<!--Scapular-->
+		<Item Id="142" Weight="4" DecreaseBy="0" RemoveOn="0.1"/>
+		<!--Mitre-->
+		<Item Id="173" Weight="4" DecreaseBy="0" RemoveOn="0.1"/>
+		<!--Sacred Heart-->
+		<Item Id="182" Weight="4" DecreaseBy="0" RemoveOn="0.1"/>
+		<!--Holy Grail-->
+		<Item Id="184" Weight="2" DecreaseBy="0" RemoveOn="0.1"/>
+		<!--Dead Dove-->
+		<Item Id="185" Weight="4" DecreaseBy="0" RemoveOn="0.1"/>
+		<!--The Relic-->
+		<Item Id="98" Weight="4" DecreaseBy="0" RemoveOn="0.1"/>
+		<!--Guardian Angel-->
+		<Item Id="112" Weight="4" DecreaseBy="0" RemoveOn="0.1"/>
+	</Pool>
 	<Pool Name="secret"/>
 	<Pool Name="library">
 		<!--The Bible-->
