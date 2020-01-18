@@ -326,7 +326,24 @@
 		<Item Id="545" Weight="30" DecreaseBy="0.1" RemoveOn="0.1"/>
 	</Pool>
 	<Pool Name="challenge"/>
-	<Pool Name="goldenChest"/>
+	<Pool Name="goldenChest">
+		<!--Tammy's Head-->
+		<Item Id="38" Weight="2" DecreaseBy="2" RemoveOn="0.1"/>
+		<!--Rotten Meat-->
+		<Item Id="26" Weight="2" DecreaseBy="2" RemoveOn="0.1"/>
+		<!--The Sad Onion-->
+		<Item Id="1" Weight="2" DecreaseBy="2" RemoveOn="0.1"/>
+		<!--Steven-->
+		<Item Id="50" Weight="2" DecreaseBy="2" RemoveOn="0.1"/>
+		<!--Monstros Tooth-->
+		<Item Id="86" Weight="2" DecreaseBy="2" RemoveOn="0.1"/>
+		<!--Fate-->
+		<Item Id="179" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<!--Wooden Spoon-->
+		<Item Id="27" Weight="2" DecreaseBy="2" RemoveOn="0.1"/>
+		<!--Moms Underwear-->
+		<Item Id="29" Weight="2" DecreaseBy="2" RemoveOn="0.1"/>
+	</Pool>
 	<Pool Name="redChest">
 		<!--Dead Cat-->
 		<Item Id="81" Weight="30" DecreaseBy="0.4" RemoveOn="0.1"/>
