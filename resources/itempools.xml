@@ -335,7 +335,68 @@
 		<!--Super Bandage-->
 		<Item Id="92" Weight="2" DecreaseBy="2" RemoveOn="0.1"/>
 	</Pool>
-	<Pool Name="devil"/>
+	<Pool Name="devil">
+		<!--Brother Bobby-->
+		<Item Id="8" Weight="90" DecreaseBy="90" RemoveOn="0.1"/>
+		<!--Sister Maggy-->
+		<Item Id="67" Weight="90" DecreaseBy="90" RemoveOn="0.1"/>
+		<!--The Mark-->
+		<Item Id="79" Weight="90" DecreaseBy="90" RemoveOn="0.1"/>
+		<!--The Pact-->
+		<Item Id="80" Weight="90" DecreaseBy="90" RemoveOn="0.1"/>
+		<!--Dead Cat-->
+		<Item Id="81" Weight="90" DecreaseBy="90" RemoveOn="0.1"/>
+		<!--Ouija Board-->
+		<Item Id="115" Weight="90" DecreaseBy="90" RemoveOn="0.1"/>
+		<!--Brimstone-->
+		<Item Id="118" Weight="90" DecreaseBy="90" RemoveOn="0.1"/>
+		<!--Guppy's Paw-->
+		<Item Id="133" Weight="90" DecreaseBy="90" RemoveOn="0.1"/>
+		<!--Guppy's Head-->
+		<Item Id="145" Weight="90" DecreaseBy="90" RemoveOn="0.1"/>
+		<!--Guppy's Tail-->
+		<Item Id="134" Weight="90" DecreaseBy="90" RemoveOn="0.1"/>
+		<!--Spirit of the night-->
+		<Item Id="159" Weight="90" DecreaseBy="90" RemoveOn="0.1"/>
+		<!--Blood Lust-->
+		<Item Id="157" Weight="90" DecreaseBy="90" RemoveOn="0.1"/>
+		<!--Whore of Babylon-->
+		<Item Id="122" Weight="90" DecreaseBy="90" RemoveOn="0.1"/>
+		<!--Moms Knife-->
+		<Item Id="114" Weight="90" DecreaseBy="90" RemoveOn="0.1"/>
+		<!--The Necronomicon-->
+		<Item Id="35" Weight="20" DecreaseBy="20" RemoveOn="0.1"/>
+		<!--Technology-->
+		<Item Id="68" Weight="18" DecreaseBy="18" RemoveOn="0.1"/>
+		<!--Lord of the Pit-->
+		<Item Id="82" Weight="30" DecreaseBy="30" RemoveOn="0.1"/>
+		<!--We need to go deeper!-->
+		<Item Id="84" Weight="30" DecreaseBy="30" RemoveOn="0.1"/>
+		<!--The Book of Belial-->
+		<Item Id="34" Weight="15" DecreaseBy="15" RemoveOn="0.1"/>
+		<!--Lucky Foot-->
+		<Item Id="46" Weight="30" DecreaseBy="30" RemoveOn="0.1"/>
+		<!--The Nail-->
+		<Item Id="83" Weight="60" DecreaseBy="60" RemoveOn="0.1"/>
+		<!--A Quarter-->
+		<Item Id="74" Weight="30" DecreaseBy="30" RemoveOn="0.1"/>
+		<!--The Book of Sin-->
+		<Item Id="97" Weight="30" DecreaseBy="30" RemoveOn="0.1"/>
+		<!--The Common Cold-->
+		<Item Id="103" Weight="30" DecreaseBy="30" RemoveOn="0.1"/>
+		<!--The Parasite-->
+		<Item Id="104" Weight="30" DecreaseBy="30" RemoveOn="0.1"/>
+		<!--Money = Power-->
+		<Item Id="109" Weight="30" DecreaseBy="30" RemoveOn="0.1"/>
+		<!--Razor Blade-->
+		<Item Id="126" Weight="30" DecreaseBy="30" RemoveOn="0.1"/>
+		<!--Demon Baby-->
+		<Item Id="113" Weight="30" DecreaseBy="30" RemoveOn="0.1"/>
+		<!--Forget Me Now-->
+		<Item Id="127" Weight="30" DecreaseBy="30" RemoveOn="0.1"/>
+		<!--Monster Manual-->
+		<Item Id="123" Weight="30" DecreaseBy="30" RemoveOn="0.1"/>
+	</Pool>
 	<Pool Name="angel"/>
 	<Pool Name="secret"/>
 	<Pool Name="library">
