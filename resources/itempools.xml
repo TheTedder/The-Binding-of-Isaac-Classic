@@ -446,30 +446,22 @@
 		<Item Id="89" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
 	</Pool>
 	<Pool Name="library">
-		<!--The Bible-->
-		<Item Id="33" Weight="1" DecreaseBy="0.1" RemoveOn="0.1"/>
 		<!--The Book of Belial-->
-		<Item Id="34" Weight="1" DecreaseBy="0.1" RemoveOn="0.1"/>
+		<Item Id="34" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
 		<!--The Necronomicon-->
-		<Item Id="35" Weight="1" DecreaseBy="0.1" RemoveOn="0.1"/>
+		<Item Id="35" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
 		<!--Book of shadows-->
-		<Item Id="58" Weight="1" DecreaseBy="0.1" RemoveOn="0.1"/>
+		<Item Id="58" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
 		<!--Anarchist Cookbook-->
-		<Item Id="65" Weight="1" DecreaseBy="0.1" RemoveOn="0.1"/>
+		<Item Id="65" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
 		<!--Book of Revelations-->
-		<Item Id="78" Weight="1" DecreaseBy="0.1" RemoveOn="0.1"/>
+		<Item Id="78" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
 		<!--The Book of Sin-->
-		<Item Id="97" Weight="1" DecreaseBy="0.1" RemoveOn="0.1"/>
+		<Item Id="97" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
 		<!--Telepathy for Dummies-->
-		<Item Id="192" Weight="1" DecreaseBy="0.1" RemoveOn="0.1"/>
-		<!--How to Jump-->
-		<Item Id="282" Weight="1" DecreaseBy="0.1" RemoveOn="0.1"/>
-		<!--Book of Secrets-->
-		<Item Id="287" Weight="1" DecreaseBy="0.1" RemoveOn="0.1"/>
-		<!--Satanic Bible-->
-		<Item Id="292" Weight="1" DecreaseBy="0.1" RemoveOn="0.1"/>
-		<!---->
-		<Item Id="545" Weight="1" DecreaseBy="0.1" RemoveOn="0.1"/>
+		<Item Id="192" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<!--Monster Manual-->
+		<Item Id="123" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
 	</Pool>
 	<Pool Name="challenge"/>
 	<Pool Name="goldenChest">
