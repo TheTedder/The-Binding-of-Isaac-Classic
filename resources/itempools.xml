@@ -267,13 +267,13 @@
 	</Pool>
 	<Pool Name="shop">
 		<!--Treasure Map-->
-		<Item Id="54" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<Item Id="54" Weight="2" DecreaseBy="1" RemoveOn="0.1"/>
 		<!--The Ladder-->
-		<Item Id="60" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<Item Id="60" Weight="2" DecreaseBy="1" RemoveOn="0.1"/>
 		<!--Steam Sale-->
 		<Item Id="64" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
 		<!--The Compass-->
-		<Item Id="21" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<Item Id="21" Weight="2" DecreaseBy="1" RemoveOn="0.1"/>
 		<!--Moms Purse-->
 		<Item Id="139" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
 		<!--Habit-->
