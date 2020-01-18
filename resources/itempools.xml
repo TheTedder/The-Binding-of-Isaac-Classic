@@ -15,7 +15,7 @@
 		<!--Blood of the Martyr-->
 		<Item Id="7" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
 		<!--Brother Bobby-->
-		<Item Id="8" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<Item Id="8" Weight="2" DecreaseBy="1" RemoveOn="0.1"/>
 		<!--Halo of Flies-->
 		<Item Id="10" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
 		<!--Magic Mushroom-->
@@ -27,7 +27,7 @@
 		<!--<3-->
 		<Item Id="15" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
 		<!--Boom!-->
-		<Item Id="19" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<Item Id="19" Weight="2" DecreaseBy="1" RemoveOn="0.1"/>
 		<!--The Poop!-->
 		<Item Id="36" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
 		<!--Mr. Boom!-->
