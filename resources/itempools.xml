@@ -43,7 +43,7 @@
 		<!--Yum Heart-->
 		<Item Id="45" Weight="30" DecreaseBy="30" RemoveOn="0.1"/>
 		<!--Lucky Foot-->
-		<Item Id="46" Weight="30" DecreaseBy="15" RemoveOn="0.1"/>
+		<Item Id="46" Weight="20" DecreaseBy="20" RemoveOn="0.1"/>
 		<!--Doctors Remote-->
 		<Item Id="47" Weight="30" DecreaseBy="30" RemoveOn="0.1"/>
 		<!--Cupids arrow-->
@@ -105,7 +105,7 @@
 		<!--Little C.H.A.D.-->
 		<Item Id="96" Weight="30" DecreaseBy="30" RemoveOn="0.1"/>
 		<!--The Book of Sin-->
-		<Item Id="97" Weight="20" DecreaseBy="30" RemoveOn="0.1"/>
+		<Item Id="97" Weight="20" DecreaseBy="20" RemoveOn="0.1"/>
 		<!--The Relic-->
 		<Item Id="98" Weight="30" DecreaseBy="30" RemoveOn="0.1"/>
 		<!--Little Gish-->
@@ -117,9 +117,9 @@
 		<!--Mom's Bottle of Pills-->
 		<Item Id="102" Weight="30" DecreaseBy="30" RemoveOn="0.1"/>
 		<!--The Common Cold-->
-		<Item Id="103" Weight="20" DecreaseBy="30" RemoveOn="0.1"/>
+		<Item Id="103" Weight="20" DecreaseBy="20" RemoveOn="0.1"/>
 		<!--The Parasite-->
-		<Item Id="104" Weight="20" DecreaseBy="30" RemoveOn="0.1"/>
+		<Item Id="104" Weight="20" DecreaseBy="20" RemoveOn="0.1"/>
 		<!--The D6-->
 		<Item Id="105" Weight="30" DecreaseBy="30" RemoveOn="0.1"/>
 		<!--Mr. Mega-->
@@ -129,15 +129,15 @@
 		<!--The Wafer-->
 		<Item Id="108" Weight="30" DecreaseBy="30" RemoveOn="0.1"/>
 		<!--Money = Power-->
-		<Item Id="109" Weight="20" DecreaseBy="30" RemoveOn="0.1"/>
+		<Item Id="109" Weight="20" DecreaseBy="20" RemoveOn="0.1"/>
 		<!--Moms Contacts-->
 		<Item Id="110" Weight="30" DecreaseBy="30" RemoveOn="0.1"/>
 		<!--The Bean-->
 		<Item Id="111" Weight="30" DecreaseBy="30" RemoveOn="0.1"/>
 		<!--Demon Baby-->
-		<Item Id="113" Weight="20" DecreaseBy="30" RemoveOn="0.1"/>
+		<Item Id="113" Weight="20" DecreaseBy="20" RemoveOn="0.1"/>
 		<!--Moms Knife-->
-		<Item Id="114" Weight="20" DecreaseBy="30" RemoveOn="0.1"/>
+		<Item Id="114" Weight="20" DecreaseBy="20" RemoveOn="0.1"/>
 		<!--Ouija Board-->
 		<Item Id="115" Weight="30" DecreaseBy="30" RemoveOn="0.1"/>
 		<!--Dead Bird-->
@@ -147,13 +147,13 @@
 		<!--Odd Mushroom-->
 		<Item Id="121" Weight="30" DecreaseBy="30" RemoveOn="0.1"/>
 		<!--Monster Manual-->
-		<Item Id="123" Weight="20" DecreaseBy="30" RemoveOn="0.1"/>
+		<Item Id="123" Weight="20" DecreaseBy="20" RemoveOn="0.1"/>
 		<!--Dead Sea Scrolls-->
 		<Item Id="124" Weight="30" DecreaseBy="30" RemoveOn="0.1"/>
 		<!--Bobby - Bomb-->
 		<Item Id="125" Weight="30" DecreaseBy="30" RemoveOn="0.1"/>
 		<!--Forget Me Now-->
-		<Item Id="127" Weight="20" DecreaseBy="30" RemoveOn="0.1"/>
+		<Item Id="127" Weight="20" DecreaseBy="20" RemoveOn="0.1"/>
 		<!--Forever alone-->
 		<Item Id="128" Weight="30" DecreaseBy="30" RemoveOn="0.1"/>
 		<!--Bucket of Lard-->
@@ -232,6 +232,38 @@
 		<Item Id="192" Weight="30" DecreaseBy="30" RemoveOn="0.1"/>
 		<!--Crack the Sky-->
 		<Item Id="160" Weight="30" DecreaseBy="30" RemoveOn="0.1"/>
+		<!--Wooden Spoon-->
+		<Item Id="27" Weight="30" DecreaseBy="30" RemoveOn="0.1"/>
+		<!--The Belt-->
+		<Item Id="28" Weight="30" DecreaseBy="30" RemoveOn="0.1"/>
+		<!--Moms Underwear-->
+		<Item Id="29" Weight="30" DecreaseBy="30" RemoveOn="0.1"/>
+		<!--Moms Heels-->
+		<Item Id="30" Weight="30" DecreaseBy="30" RemoveOn="0.1"/>
+		<!--Moms Lipstick-->
+		<Item Id="31" Weight="30" DecreaseBy="30" RemoveOn="0.1"/>
+		<!--Tammy's Head-->
+		<Item Id="38" Weight="30" DecreaseBy="30" RemoveOn="0.1"/>
+		<!--Growth Hormones-->
+		<Item Id="70" Weight="30" DecreaseBy="30" RemoveOn="0.1"/>
+		<!--Portable Slot!-->
+		<Item Id="177" Weight="30" DecreaseBy="30" RemoveOn="0.1"/>
+		<!--Tooth Picks-->
+		<Item Id="183" Weight="30" DecreaseBy="30" RemoveOn="0.1"/>
+		<!--Guppy's Hairball-->
+		<Item Id="187" Weight="30" DecreaseBy="30" RemoveOn="0.1"/>
+		<!--Skeleton Key-->
+		<Item Id="17" Weight="15" DecreaseBy="15" RemoveOn="0.1"/>
+		<!--The Necronomicon-->
+		<Item Id="35" Weight="20" DecreaseBy="20" RemoveOn="0.1"/>
+		<!--The Book of Belial-->
+		<Item Id="34" Weight="10" DecreaseBy="10" RemoveOn="0.1"/>
+		<!--Guardian Angel-->
+		<Item Id="112" Weight="30" DecreaseBy="30" RemoveOn="0.1"/>
+		<!--Whore of Babylon-->
+		<Item Id="122" Weight="20" DecreaseBy="20" RemoveOn="0.1"/>
+		<!--Razor Blade-->
+		<Item Id="126" Weight="20" DecreaseBy="20" RemoveOn="0.1"/>
 	</Pool>
 	<Pool Name="shop">
 		<!--The Compass-->
