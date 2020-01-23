@@ -1,7 +1,7 @@
 local mod = RegisterMod("The Binding of Isaac Classic", 1)
-local game = Game()
 
 function mod:PostNewLevel()
+    local game = Game()
     local level = game:GetLevel()
     local stage = level:GetStage()
     local stagetype = level:GetStageType()
